@@ -2,5 +2,5 @@ class MathElement
 {
 public:
 	virtual ~MathElement(){};
-	virtual calc()=0;	
+	virtual double calc()=0;	
 };

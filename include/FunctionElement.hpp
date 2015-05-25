@@ -19,5 +19,5 @@ public:
 private:
 
 	double * angle;
-	double ( *function )()
+	double ( * function )();
 };
